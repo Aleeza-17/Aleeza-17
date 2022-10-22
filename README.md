@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aleeza</h1>
-
+- Hi 👋, I'm Aleeza
 
 - 🔭 I’m currently working on **Web development**
 
