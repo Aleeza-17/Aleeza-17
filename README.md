@@ -1,6 +1,6 @@
 - Hi 👋, I'm Aleeza
 
-- 🔭 I’m currently working on **Web development**
+- 🔭 I’m currently working on **Mobile development**
 
 - 🌱 I’m currently learning **Flutter**
 
